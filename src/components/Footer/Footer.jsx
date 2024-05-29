@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
         <hr />
         <div className="footer-bottom">
-            <p className="footer-bottom-left">© 2024 Julian Gonzalez. All rights reserved.</p>
+            <p className="footer-bottom-left">© 2024 Angel Moreno. All rights reserved.</p>
             <div className="footer-bottom-right">
                 <p>Term of Services</p>
                 <p>Privacy Policy</p>
